@@ -1,6 +1,6 @@
 # Label Propagation: A Practical Guide to Semi-Supervised Learning 
 
-This repository contains the materials for the tutorial "Semi-Supervised Learning: A Practical Guide to Label Propagation."
+This repository contains the materials for the tutorial "Label Propagation: A Practical Guide to Semi-Supervised Learning."
 
 ## Contents
 - **Tutorial**: Detailed guide to understanding and implementing Label Propagation.
